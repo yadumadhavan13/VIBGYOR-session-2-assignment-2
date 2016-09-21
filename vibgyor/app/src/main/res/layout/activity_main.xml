@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.y.vibgyor.MainActivity"
+    android:elevation="1dp"
+    android:orientation="vertical">
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="RED"
+            android:id="@+id/textView"
+            android:gravity="center"
+            android:textColor="#070707"
+            android:background="#FF0000"
+            android:layout_weight="1"
+            android:textAlignment="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="ORANGE"
+            android:id="@+id/textView"
+            android:gravity="center"
+            android:textColor="#070707"
+            android:background="#FFA500"
+            android:layout_weight="1"
+            android:textAlignment="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="YELLOW"
+            android:id="@+id/textView"
+            android:gravity="center"
+            android:textColor="#070707"
+            android:background="#FFFF00"
+            android:layout_weight="1"
+            android:textAlignment="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="GREEN"
+            android:id="@+id/textView"
+            android:gravity="center"
+            android:textColor="#070707"
+            android:background="#008000"
+            android:layout_weight="1"
+            android:textAlignment="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="BLUE"
+            android:id="@+id/textView"
+            android:gravity="center"
+            android:textColor="#070707"
+            android:background="#0000FF"
+            android:layout_weight="1"
+            android:textAlignment="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="INDIGO"
+            android:id="@+id/textView"
+            android:gravity="center"
+            android:textColor="#070707"
+            android:background="#4B0082"
+            android:layout_weight="1"
+            android:textAlignment="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="VIOLET"
+            android:id="@+id/textView"
+            android:gravity="center"
+            android:textColor="#070707"
+            android:background="#9400D3"
+            android:layout_weight="1"
+            android:textAlignment="center" />
+
+</LinearLayout>
